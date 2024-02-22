@@ -11,6 +11,10 @@ int main(){
       printf("hello\n world");
       printf("\n");
       printf("hello cw ");
+      printf("hello\t world");
+      printf("hello \r world");
+      printf("hello \b world");
+      
 
       // basic Question
       printf("nn\n\nnn\n");
