@@ -11,4 +11,8 @@ int main(){
       printf("hello\n world");
       printf("\n");
       printf("hello cw ");
+
+      // basic Question
+      printf("nn\n\nnn\n");
+      printf("nn/n/nnn/n");
 }
