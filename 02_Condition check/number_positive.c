@@ -9,6 +9,7 @@ int main(){
         printf("number is positive :",number);
     }
     else{
-        printf("number is neagtive :"+,number);
+        printf("number is neagtive :",number);
     }
+    return 0;
 }
